@@ -10,3 +10,4 @@ resume-tailor/
  ├─ .github/
  │   └─ workflows/   # CI pipeline for tests
  └─ README.md
+
